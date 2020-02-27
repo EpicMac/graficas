@@ -169,7 +169,6 @@ void mouseClicked(){
   // Color.
   if(overOption(15,295,25,25)){
     colour = #FF2D00; // rojo
-    //CAMBIALOOOOO POR EL COLOOOOR
   }
   else if(overOption(40,295,25,25)){
     colour = #0064FF; // azul
